@@ -1,0 +1,4 @@
+{
+    "urlStarWarsFindPeople" : "http://swapi.co/api/people/",
+    "urlStarWarsFindFilm" : "http://swapi.co/api/films/"
+}
